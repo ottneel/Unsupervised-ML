@@ -75,7 +75,7 @@ The three core features were kept because they produced the cleanest, best suppo
 
 ## Read the full writeup
 
-A full narrative writeup of this project, including the reasoning behind each step and directional product ideas for each cluster, is available here: [Unsupervised ML: Understanding the SME Customer Behind the Credit Score in Nigeria]([#](https://medium.com/@ottneel/unsupervised-ml-understanding-the-sme-customer-behind-the-credit-score-b53b375eadda))
+A full narrative writeup of this project, including the reasoning behind each step and directional product ideas for each cluster, is available here: [Unsupervised ML: Understanding the SME Customer Behind the Credit Score in Nigeria](https://medium.com/@ottneel/unsupervised-ml-understanding-the-sme-customer-behind-the-credit-score-b53b375eadda)
 
 ## Caveats
 
